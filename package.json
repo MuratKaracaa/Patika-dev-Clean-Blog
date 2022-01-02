@@ -1,0 +1,33 @@
+{
+    "name": "cleanblog",
+    "version": "1.0.0",
+    "description": "Patika dev CleanBlog",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MuratKaracaa/Patika-dev-Clean-Blog.git"
+    },
+    "keywords": [
+        "patika",
+        "nodejs",
+        "backend",
+        "cleanblog"
+    ],
+    "author": "Murat KARACA",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MuratKaracaa/Patika-dev-Clean-Blog/issues"
+    },
+    "homepage": "https://github.com/MuratKaracaa/Patika-dev-Clean-Blog#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
